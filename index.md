@@ -16,10 +16,6 @@ title: Home
   <a href="/projects" class="btn btn-primary">View Projects</a>
   <a href="/research" class="btn btn-outline">Research</a>
 </div>
-    <div class="hero-ctas">
-      <a href="/projects" class="btn btn-primary">View Projects</a>
-      <a href="/research" class="btn btn-outline">Research</a>
-    </div>
   </div>
 </section>
 
