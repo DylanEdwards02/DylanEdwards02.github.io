@@ -1,0 +1,20 @@
+title: Dylan Edwards
+description: Mechanical Engineer — Robotics & Systems
+author: Dylan Edwards
+email: Dylanme2@illinois.edu
+url: "https://DylanEdwards02.github.io"
+
+linkedin: dylanme
+github: DylanEdwards02
+
+markdown: kramdown
+permalink: pretty
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
