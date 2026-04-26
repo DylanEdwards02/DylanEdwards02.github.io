@@ -13,8 +13,8 @@
   --text:        #1f2328;
   --text-2:      #59636e;
   --text-3:      #818b98;
-  --accent:      #0969da;
-  --accent-2:    #1a7fda;
+  --accent:      #4a4a4a;
+  --accent-2:    #2e2e2e;
   --green:       #1a7f37;
   --yellow:      #9a6700;
   --font-mono:   'JetBrains Mono', 'Fira Code', 'Cascadia Code', monospace;
@@ -125,18 +125,27 @@ main {
 
 .nav-links {
   display: flex;
-  align-items: center;
+  align-items: stretch;
   gap: 0.15rem;
   list-style: none;
+  height: 100%;
+}
+
+.nav-links li {
+  display: flex;
+  align-items: center;
 }
 
 .nav-links a {
   font-size: 1.05rem;
   font-weight: 500;
   color: var(--text-3);
-  padding: 0.5rem 1rem;
+  padding: 0 1rem;
   text-decoration: none;
   position: relative;
+  display: flex;
+  align-items: center;
+  height: 100%;
   transition: color 0.15s;
 }
 .nav-links a::after {
