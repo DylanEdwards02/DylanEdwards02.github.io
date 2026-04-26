@@ -12,9 +12,6 @@ title: Home
     Mechanical Engineer &mdash; <strong>Robotics · Hardware · Systems</strong>
     </p>
     <p style="font-size: 0.82rem; color: var(--text-3); margin-bottom: 1.25rem;">B.S. Systems Engineering & Design · University of Illinois Urbana-Champaign · 2025</p>
-    <p class="hero-bio">
-      I design and build physical systems at the intersection of mechanical engineering and intelligent control &mdash; currently researching robotic hands capable of human-like manipulation at UIUC.
-    </p>
     <div class="hero-ctas">
       <a href="/projects" class="btn btn-primary">View Projects</a>
       <a href="/research" class="btn btn-outline">Research</a>
