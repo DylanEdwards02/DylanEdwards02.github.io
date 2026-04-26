@@ -34,7 +34,7 @@ title: Home
     <p>Robotic hands, human-like grasping, and fine motor control systems.</p>
   </div>
   <div class="highlight-card">
-    <span class="hl-label">Mechanical</span>
+    <span class="hl-label">Hardware</span>
     <h3>Mechanical & Embedded Design</h3>
     <p>CAD, fabrication, PCB design, and embedded hardware integration.</p>
   </div>
