@@ -1,6 +1,6 @@
 /* ============================================================
-   DESIGN SYSTEM — Akaash Kashyap Portfolio
-   Dark, terminal-inspired theme for engineers
+   DESIGN SYSTEM — Dylan Edwards Portfolio
+   Clean, minimal theme for mechanical/systems engineers
    ============================================================ */
 
 /* ── Custom Properties ─────────────────────────────────────── */
@@ -15,12 +15,12 @@
   --text-3:      #718096;
   --accent:      #5b9bd5;
   --accent-2:    #4a8bc4;
-  --green:       #2d8a4e;
+  --green:       #2a7f6f;
   --yellow:      #9a6700;
   --font-mono:   'JetBrains Mono', 'Fira Code', 'Cascadia Code', monospace;
   --font-sans:   'Inter', system-ui, -apple-system, sans-serif;
-  --radius:      6px;
-  --radius-lg:   10px;
+  --radius:      8px;
+  --radius-lg:   14px;
   --nav-h:       60px;
   --content-w:   860px;
   --wide-w:      1100px;
@@ -111,7 +111,7 @@ main {
 }
 
 .nav-logo {
-  font-family: var(--font-mono);
+  font-family: var(--font-sans);
   font-size: 0.95rem;
   font-weight: 600;
   color: var(--text);
@@ -150,7 +150,7 @@ main {
 .site-footer p {
   color: var(--text-3);
   font-size: 0.8rem;
-  font-family: var(--font-mono);
+  font-family: var(--font-sans);
   margin: 0;
 }
 
@@ -161,7 +161,7 @@ main {
   border-bottom: 1px solid var(--border);
 }
 .page-header h1 {
-  font-family: var(--font-mono);
+  font-family: var(--font-sans);
   font-size: 1.6rem;
 }
 .page-header .subtitle {
@@ -173,7 +173,7 @@ main {
 
 /* ── Section label ──────────────────────────────────────────── */
 .section-label {
-  font-family: var(--font-mono);
+  font-family: var(--font-sans);
   font-size: 0.8rem;
   color: var(--accent);
   text-transform: uppercase;
@@ -225,13 +225,13 @@ main {
   margin-top: 0.875rem;
 }
 .tag {
-  font-family: var(--font-mono);
+  font-family: var(--font-sans);
   font-size: 0.72rem;
   padding: 0.2rem 0.55rem;
-  border-radius: 3px;
-  background: rgba(88, 166, 255, 0.08);
+  border-radius: var(--radius);
+  background: rgba(91, 155, 213, 0.08);
   color: var(--accent);
-  border: 1px solid rgba(88, 166, 255, 0.2);
+  border: 1px solid rgba(91, 155, 213, 0.2);
 }
 
 /* ════════════════════════════════════════════════════════════
@@ -266,7 +266,7 @@ main {
 }
 
 .hero-name {
-  font-family: var(--font-mono);
+  font-family: var(--font-sans);
   font-size: 2.2rem;
   font-weight: 700;
   color: var(--text);
@@ -317,7 +317,7 @@ main {
 .highlight-card:hover { border-color: var(--border-2); }
 
 .highlight-card .hl-label {
-  font-family: var(--font-mono);
+  font-family: var(--font-sans);
   font-size: 0.7rem;
   color: var(--accent);
   text-transform: uppercase;
@@ -370,7 +370,7 @@ main {
 .edu-card .school { font-weight: 600; color: var(--text); }
 .edu-card .degree { color: var(--text-2); font-size: 0.875rem; }
 .edu-card .date {
-  font-family: var(--font-mono);
+  font-family: var(--font-sans);
   font-size: 0.78rem;
   color: var(--green);
   margin-top: 0.2rem;
@@ -384,12 +384,13 @@ main {
   font-size: 0.875rem;
 }
 .tech-row .tl {
-  font-family: var(--font-mono);
+  font-family: var(--font-sans);
   font-size: 0.72rem;
   color: var(--accent);
   min-width: 145px;
   flex-shrink: 0;
   padding-top: 0.1rem;
+  font-weight: 600;
 }
 .tech-row .tv { color: var(--text-2); }
 
@@ -422,13 +423,13 @@ main {
 .timeline-group { margin-bottom: 2rem; }
 
 .timeline-group-label {
-  font-family: var(--font-mono);
+  font-family: var(--font-sans);
   font-size: 0.7rem;
   color: var(--text-3);
   text-transform: uppercase;
   letter-spacing: 0.12em;
   margin-bottom: 1.5rem;
-  padding-left: 0;
+  font-weight: 600;
   position: relative;
   left: -1rem;
 }
@@ -464,7 +465,7 @@ main {
 }
 .timeline-promotion {
   font-size: 0.72rem;
-  font-family: var(--font-mono);
+  font-family: var(--font-sans);
   font-weight: 400;
   color: var(--accent);
   opacity: 0.8;
@@ -472,12 +473,12 @@ main {
   vertical-align: middle;
 }
 .timeline-org {
-  font-family: var(--font-mono);
+  font-family: var(--font-sans);
   font-size: 0.82rem;
   color: var(--accent);
 }
 .timeline-date {
-  font-family: var(--font-mono);
+  font-family: var(--font-sans);
   font-size: 0.78rem;
   color: var(--text-3);
 }
@@ -521,10 +522,11 @@ main {
   border-bottom: none;
 }
 .sub-project h4 {
-  font-family: var(--font-mono);
+  font-family: var(--font-sans);
   font-size: 0.82rem;
   color: var(--green);
   margin-bottom: 0.4rem;
+  font-weight: 600;
 }
 
 /* ════════════════════════════════════════════════════════════
@@ -545,7 +547,7 @@ main {
 }
 .project-card:hover {
   border-color: var(--border-2);
-  box-shadow: 0 6px 28px rgba(0, 0, 0, 0.35);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
 }
 
 .project-card-header {
@@ -635,7 +637,7 @@ main {
   margin-bottom: 0.4rem;
 }
 .cert-date {
-  font-family: var(--font-mono);
+  font-family: var(--font-sans);
   font-size: 0.78rem;
   color: var(--text-3);
 }
@@ -686,35 +688,36 @@ main {
 .social-link:hover {
   border-color: var(--accent);
   color: var(--accent);
-  background: rgba(88, 166, 255, 0.07);
+  background: rgba(91, 155, 213, 0.07);
 }
 
 .form-feedback {
   padding: 0.75rem 1rem;
-  border-radius: 6px;
+  border-radius: var(--radius);
   font-size: 0.875rem;
   margin-bottom: 1.1rem;
 }
 .form-feedback--success {
-  background: rgba(63, 185, 80, 0.12);
-  border: 1px solid rgba(63, 185, 80, 0.35);
-  color: #3fb950;
+  background: rgba(42, 127, 111, 0.12);
+  border: 1px solid rgba(42, 127, 111, 0.35);
+  color: var(--green);
 }
 .form-feedback--error {
   background: rgba(248, 81, 73, 0.12);
   border: 1px solid rgba(248, 81, 73, 0.35);
-  color: #f85149;
+  color: #e53e3e;
 }
 
 .form-group { margin-bottom: 1.1rem; }
 .form-group label {
   display: block;
-  font-family: var(--font-mono);
+  font-family: var(--font-sans);
   font-size: 0.72rem;
   color: var(--text-3);
   text-transform: uppercase;
   letter-spacing: 0.08em;
   margin-bottom: 0.35rem;
+  font-weight: 600;
 }
 .form-group input,
 .form-group textarea {
