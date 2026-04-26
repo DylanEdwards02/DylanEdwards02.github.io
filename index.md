@@ -7,7 +7,6 @@ title: Home
     <img src="/assets/img/profile.jpg" alt="Dylan Edwards">
   </div>
   <div class="hero-content">
-    <span class="hero-greeting">// hello, world</span>
     <h1 class="hero-name">Dylan Edwards</h1>
     <p class="hero-tagline">
       Mechanical Engineer &mdash; <strong>Robotics · Hardware · Systems</strong>
