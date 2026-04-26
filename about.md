@@ -1,35 +1,66 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: default
+title: About Me
 ---
-
-<div class="about-grid reveal">
-  <div class="about-photo-col">
-    <img src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="Dylan Edwards" class="about-photo" />
-  </div>
-  <div class="about-text-col">
-    <h2 class="about-headline">Building systems at the boundary of mechanical and intelligent design.</h2>
-    <p class="about-text">
-      I'm a recently graduated Systems Engineering &amp; Design student from the University of Illinois Urbana-Champaign,
-      with a minor in Computer Science. My work centers on robotics, hardware systems, and the challenge of
-      making machines that interact reliably with the physical world.
-    </p>
-    <p class="about-text">
-      My research focuses on robotic hand design for human-like manipulation — one of the hardest open problems
-      in robotics. I'm drawn to work that sits at the intersection of precision mechanical design and
-      intelligent control.
-    </p>
-    <p class="about-text">
-      I'm actively seeking roles in robotics engineering, mechatronics, and hardware systems design.
-    </p>
-    <div class="about-details">
-      <div class="detail-row"><span class="detail-label">Degree</span><span>B.S. Systems Engineering &amp; Design</span></div>
-      <div class="detail-row"><span class="detail-label">Minor</span><span>Computer Science</span></div>
-      <div class="detail-row"><span class="detail-label">University</span><span>University of Illinois Urbana-Champaign</span></div>
-      <div class="detail-row"><span class="detail-label">Graduated</span><span>2025</span></div>
-      <div class="detail-row"><span class="detail-label">Email</span><a href="mailto:Dylanme2@illinois.edu">Dylanme2@illinois.edu</a></div>
+<div class="page-header">
+  <h1>About Me</h1>
+  <p class="subtitle">Background, education, and technical expertise</p>
+</div>
+<div class="about-layout">
+  <aside class="about-sidebar">
+    <img src="/assets/img/profile.jpg" alt="Dylan Edwards">
+    <div class="about-sidebar-links">
+      <a href="https://www.linkedin.com/in/dylanme" target="_blank" class="btn btn-outline">
+        <i class="fab fa-linkedin"></i> LinkedIn
+      </a>
+      <a href="https://github.com/DylanEdwards02" target="_blank" class="btn btn-outline">
+        <i class="fab fa-github"></i> GitHub
+      </a>
+      <a href="/contact" class="btn btn-primary">
+        <i class="fas fa-envelope"></i> Contact
+      </a>
     </div>
-    <a href="/assets/resume.pdf" class="btn btn-outline" style="margin-top:2rem;display:inline-flex;">Download Résumé ↗</a>
+  </aside>
+  <div class="about-main">
+    <h2>Who I Am</h2>
+    <p>
+      I'm Dylan Edwards, a recent graduate from the University of Illinois Urbana-Champaign with a B.S. in Systems Engineering &amp; Design and a minor in Computer Science. My work focuses on robotics and hardware systems — designing and building physical machines that interact reliably with the real world.
+    </p>
+    <p>
+      I care about engineering that actually works outside of simulation. Whether it's a robotic hand replicating human-like manipulation or an embedded system sensing and actuating in a physical environment, I'm drawn to problems at the boundary of mechanical design and intelligent control.
+    </p>
+    <h2>Education</h2>
+    <div class="edu-card">
+      <div class="school">University of Illinois Urbana-Champaign</div>
+      <div class="degree">B.S. Systems Engineering &amp; Design · Minor in Computer Science</div>
+      <div class="date">May 2025</div>
+    </div>
+    <h2>Technical Skills</h2>
+    <div class="tech-rows">
+      <div class="tech-row">
+        <span class="tl">Mechanical Design</span>
+        <span class="tv">SolidWorks, Fusion 360, GD&amp;T, FEA, technical drawing, tolerance analysis</span>
+      </div>
+      <div class="tech-row">
+        <span class="tl">Robotics</span>
+        <span class="tv">ROS/ROS2, motion planning, sensor integration, control systems, dexterous manipulation</span>
+      </div>
+      <div class="tech-row">
+        <span class="tl">Hardware</span>
+        <span class="tv">3D printing, PCB design, machining, Arduino, Raspberry Pi, embedded systems</span>
+      </div>
+      <div class="tech-row">
+        <span class="tl">Languages</span>
+        <span class="tv">Python, MATLAB, C/C++, Bash</span>
+      </div>
+      <div class="tech-row">
+        <span class="tl">Tools</span>
+        <span class="tv">Git, Linux, ANSYS, Simulink, KiCad</span>
+      </div>
+    </div>
+    <h2>Outside Work</h2>
+    <p>
+      [Add something personal here — hobbies, interests, volunteering, sports, etc.]
+    </p>
   </div>
 </div>
