@@ -110,6 +110,7 @@ main {
   display: flex;
   align-items: center;
   justify-content: flex-start;
+  height: 100%;
 }
 
 .nav-logo {
@@ -134,13 +135,11 @@ main {
   font-weight: 500;
   color: var(--text-2);
   padding: 0.35rem 0.7rem;
-  border-radius: var(--radius);
-  transition: all 0.15s;
+  transition: color 0.15s;
 }
 .nav-links a:hover,
 .nav-links a.active {
   color: var(--text);
-  background: var(--bg-3);
 }
 
 /* ── Footer ─────────────────────────────────────────────────── */
