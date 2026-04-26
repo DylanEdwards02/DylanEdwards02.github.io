@@ -47,8 +47,9 @@ title: Home
 
 <hr class="home-divider">
 
-<div style="display: flex; flex-direction: column; gap: 0.5rem; margin-bottom: 2.5rem;">
-  <p style="font-size: 0.85rem; color: var(--text-2); margin: 0;"><strong>Mechanical</strong> — OnShape · Fusion360 · FEA · GD&T</p>
+<span class="section-label">Skills</span>
+<div style="display: flex; flex-direction: column; gap: 0.5rem; margin-bottom: 2rem;">
+  <p style="font-size: 0.85rem; color: var(--text-2); margin: 0;"><strong>Mechanical</strong> — OnShape · Fusion 360 · FEA · GD&T</p>
   <p style="font-size: 0.85rem; color: var(--text-2); margin: 0;"><strong>Fabrication</strong> — FDM/SLA Printing · CNC Machining · Silicon Molding</p>
   <p style="font-size: 0.85rem; color: var(--text-2); margin: 0;"><strong>Robotics</strong> — Isaac Lab · Motion Planning · Control Systems</p>
   <p style="font-size: 0.85rem; color: var(--text-2); margin: 0;"><strong>Hardware</strong> — KiCAD · Arduino · Embedded Systems · Soldering</p>
