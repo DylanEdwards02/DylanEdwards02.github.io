@@ -8,10 +8,14 @@ title: Home
   </div>
   <div class="hero-content">
     <h1 class="hero-name">Dylan Edwards</h1>
-    <p class="hero-tagline" style="margin-bottom: 1.25rem;">
-      Mechanical & Systems Engineer &mdash; <strong>Research · Robotics · Hardware</strong>
-    </p>
-    <p style="font-size: 0.82rem; color: var(--text-3); margin-bottom: 1.25rem;">B.S. Systems Engineering & Design · University of Illinois Urbana-Champaign · 2025</p>
+    <p class="hero-tagline" style="margin-bottom: 0.4rem; font-size: 0.82rem;">
+  Mechanical & Systems Engineer &mdash; <strong>Research · Robotics · Hardware</strong>
+</p>
+<p style="font-size: 0.82rem; color: var(--text-3); margin-bottom: 0.4rem;">B.S. Systems Engineering & Design · University of Illinois Urbana-Champaign · 2025</p>
+<div class="hero-ctas" style="margin-top: 0.75rem;">
+  <a href="/projects" class="btn btn-primary">View Projects</a>
+  <a href="/research" class="btn btn-outline">Research</a>
+</div>
     <div class="hero-ctas">
       <a href="/projects" class="btn btn-primary">View Projects</a>
       <a href="/research" class="btn btn-outline">Research</a>
