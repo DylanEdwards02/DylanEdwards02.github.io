@@ -786,3 +786,26 @@ main {
   .hero-name { font-size: 1.7rem; }
   .nav-inner { padding: 0 1rem; }
 }
+
+/* ── Tools strip ─────────────────────────────────────────────── */
+.tools-strip {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 2rem;
+}
+.tool-pill {
+  font-size: 0.8rem;
+  font-weight: 500;
+  padding: 0.35rem 0.85rem;
+  border-radius: 999px;
+  background: var(--bg-2);
+  border: 1px solid var(--border);
+  color: var(--text-2);
+  transition: all 0.15s;
+}
+.tool-pill:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+  background: var(--bg-3);
+}
