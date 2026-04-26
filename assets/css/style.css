@@ -13,12 +13,12 @@
   --text:        #1f2328;
   --text-2:      #4a5568;
   --text-3:      #718096;
-  --accent:      #5b9bd5;
-  --accent-2:    #4a8bc4;
+  --accent:      #4a7fb5;
+  --accent-2:    #3a6fa5;
   --green:       #2a7f6f;
   --yellow:      #9a6700;
   --font-mono:   'JetBrains Mono', 'Fira Code', 'Cascadia Code', monospace;
-  --font-sans:   'Inter', system-ui, -apple-system, sans-serif;
+  --font-sans:   'DM Sans', system-ui, -apple-system, sans-serif;
   --radius:      8px;
   --radius-lg:   14px;
   --nav-h:       60px;
@@ -115,7 +115,7 @@ main {
   font-size: 0.95rem;
   font-weight: 600;
   color: var(--text);
-  letter-spacing: -0.02em;
+  letter-spacing: -0.01em;
 }
 .nav-logo span { color: var(--accent); }
 .nav-logo:hover { color: var(--text); }
@@ -200,11 +200,11 @@ main {
 }
 .btn-primary {
   background: var(--accent);
-  color: var(--bg);
+  color: #fff;
 }
 .btn-primary:hover {
   background: var(--accent-2);
-  color: var(--bg);
+  color: #fff;
 }
 .btn-outline {
   background: transparent;
@@ -229,9 +229,9 @@ main {
   font-size: 0.72rem;
   padding: 0.2rem 0.55rem;
   border-radius: var(--radius);
-  background: rgba(91, 155, 213, 0.08);
+  background: rgba(74, 127, 181, 0.08);
   color: var(--accent);
-  border: 1px solid rgba(91, 155, 213, 0.2);
+  border: 1px solid rgba(74, 127, 181, 0.2);
 }
 
 /* ════════════════════════════════════════════════════════════
@@ -249,11 +249,11 @@ main {
   height: 148px;
   object-fit: cover;
   border-radius: 50%;
-  border: 2px solid var(--border);
+  border: 3px solid var(--accent);
   transition: border-color 0.3s;
   flex-shrink: 0;
 }
-.hero-avatar img:hover { border-color: var(--accent); }
+.hero-avatar img:hover { border-color: var(--accent-2); }
 
 .hero-content { flex: 1; }
 
@@ -271,7 +271,7 @@ main {
   font-weight: 700;
   color: var(--text);
   margin-bottom: 0.4rem;
-  letter-spacing: -0.03em;
+  letter-spacing: -0.02em;
   line-height: 1.2;
 }
 
@@ -303,18 +303,21 @@ main {
 
 .highlights-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   gap: 1rem;
 }
 
 .highlight-card {
   background: var(--bg-2);
-  border: 1px solid var(--border);
+  border-top: 1px solid var(--border);
+  border-right: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+  border-left: 3px solid var(--accent);
   border-radius: var(--radius-lg);
   padding: 1.25rem;
   transition: border-color 0.2s;
 }
-.highlight-card:hover { border-color: var(--border-2); }
+.highlight-card:hover { border-color: var(--accent-2); }
 
 .highlight-card .hl-label {
   font-family: var(--font-sans);
@@ -324,6 +327,7 @@ main {
   letter-spacing: 0.1em;
   margin-bottom: 0.5rem;
   display: block;
+  font-weight: 600;
 }
 .highlight-card h3 {
   font-size: 0.95rem;
@@ -688,7 +692,7 @@ main {
 .social-link:hover {
   border-color: var(--accent);
   color: var(--accent);
-  background: rgba(91, 155, 213, 0.07);
+  background: rgba(74, 127, 181, 0.07);
 }
 
 .form-feedback {
