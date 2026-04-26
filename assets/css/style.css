@@ -125,15 +125,13 @@ main {
 
 .nav-links {
   display: flex;
-  align-items: stretch;
+  align-items: center;
   gap: 0.15rem;
   list-style: none;
-  height: 100%;
 }
 
 .nav-links li {
   display: flex;
-  align-items: center;
 }
 
 .nav-links a {
@@ -145,7 +143,7 @@ main {
   position: relative;
   display: flex;
   align-items: center;
-  height: 100%;
+  height: var(--nav-h);
   transition: color 0.15s;
 }
 .nav-links a::after {
