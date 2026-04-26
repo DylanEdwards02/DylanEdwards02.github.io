@@ -51,14 +51,14 @@ title: Home
 <hr class="home-divider">
 
 <span class="section-label">Tools & Software</span>
-<div class="tools-strip">
-  <span class="tool-pill">OnShape</span>
-  <span class="tool-pill">MATLAB</span>
-  <span class="tool-pill">FEA</span>
-  <span class="tool-pill">Python</span>
-  <span class="tool-pill">C / C++</span>
-  <span class="tool-pill">Arduino</span>
-  <span class="tool-pill">Fusion 360</span>
-  <span class="tool-pill">KiCad</span>
-  <span class="tool-pill">Git</span>
+<div class="tag-list" style="margin-bottom: 2rem; justify-content: space-between; align-items: center;">
+  <span class="tag">OnShape</span>
+  <span class="tag-dot">·</span>
+  <span class="tag">Isaac Lab</span>
+  <span class="tag-dot">·</span>
+  <span class="tag">FEA</span>
+  <span class="tag-dot">·</span>
+  <span class="tag">Python</span>
+  <span class="tag-dot">·</span>
+  <span class="tag">Arduino</span>
 </div>
