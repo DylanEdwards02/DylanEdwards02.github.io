@@ -309,10 +309,7 @@ main {
 
 .highlight-card {
   background: var(--bg-2);
-  border-top: 1px solid var(--border);
-  border-right: 1px solid var(--border);
-  border-bottom: 1px solid var(--border);
-  border-left: 3px solid var(--accent);
+  border: 1px solid var(--border);
   border-radius: var(--radius-lg);
   padding: 1.25rem;
   transition: border-color 0.2s;
