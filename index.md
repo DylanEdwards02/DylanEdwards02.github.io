@@ -47,15 +47,10 @@ title: Home
 
 <hr class="home-divider">
 
-<span class="section-label">Tools & Software</span>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 2.5rem;">
-  <span style="font-size: 1rem; color: var(--text);"><strong>OnShape</strong></span>
-  <span class="tag-dot">·</span>
-  <span style="font-size: 1rem; color: var(--text);"><strong>Isaac Lab</strong></span>
-  <span class="tag-dot">·</span>
-  <span style="font-size: 1rem; color: var(--text);"><strong>FEA</strong></span>
-  <span class="tag-dot">·</span>
-  <span style="font-size: 1rem; color: var(--text);"><strong>Python</strong></span>
-  <span class="tag-dot">·</span>
-  <span style="font-size: 1rem; color: var(--text);"><strong>Arduino</strong></span>
+<div style="display: flex; flex-direction: column; gap: 0.5rem; margin-bottom: 2.5rem;">
+  <p style="font-size: 0.85rem; color: var(--text-2); margin: 0;"><strong>Mechanical</strong> — OnShape · Fusion360 · FEA · GD&T</p>
+  <p style="font-size: 0.85rem; color: var(--text-2); margin: 0;"><strong>Fabrication</strong> — FDM/SLA Printing · CNC Machining · Silicon Molding</p>
+  <p style="font-size: 0.85rem; color: var(--text-2); margin: 0;"><strong>Robotics</strong> — Isaac Lab · Motion Planning · Control Systems</p>
+  <p style="font-size: 0.85rem; color: var(--text-2); margin: 0;"><strong>Hardware</strong> — KiCAD · Arduino · Embedded Systems · Soldering</p>
+  <p style="font-size: 0.85rem; color: var(--text-2); margin: 0;"><strong>Languages</strong> — Python · C/C++</p>
 </div>
