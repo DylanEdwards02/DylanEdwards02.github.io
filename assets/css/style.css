@@ -5,25 +5,25 @@
 
 /* ── Custom Properties ─────────────────────────────────────── */
 :root {
-  --bg:          #808080;
-  --bg-2:        #737373;
-  --bg-3:        #666666;
-  --border:      #595959;
-  --border-2:    #4d4d4d;
-  --text:        #242526;
-  --text-2:      #3e4250;
-  --text-3:      #676b79;
-  --accent:      #45a9f9;
-  --accent-2:    #6fc1ff;
-  --green:       #0aab8f;
-  --yellow:      #ffb86c;
+  --bg:          #ffffff;
+  --bg-2:        #f6f8fa;
+  --bg-3:        #eaeef2;
+  --border:      #d0d7de;
+  --border-2:    #a8b1ba;
+  --text:        #1f2328;
+  --text-2:      #59636e;
+  --text-3:      #818b98;
+  --accent:      #0969da;
+  --accent-2:    #1a7fda;
+  --green:       #1a7f37;
+  --yellow:      #9a6700;
   --font-mono:   'JetBrains Mono', 'Fira Code', 'Cascadia Code', monospace;
-  --font-sans:   'DM Sans', system-ui, -apple-system, sans-serif;
-  --radius:      8px;
-  --radius-lg:   14px;
+  --font-sans:   'Inter', system-ui, -apple-system, sans-serif;
+  --radius:      6px;
+  --radius-lg:   10px;
   --nav-h:       60px;
-  --content-w:   860px;
-  --wide-w:      1100px;
+  --content-w:   720px;
+  --wide-w:      960px;
 }
 
 /* ── Reset ──────────────────────────────────────────────────── */
