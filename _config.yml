@@ -7,11 +7,11 @@ url: "https://DylanEdwards02.github.io"
 nav:
   - name: About
     link: /about
-  - name: Experience
-    link: /experience
-  - name: Certifications
-    link: /certifications
-  - name: Projects
-    link: /projects
-  - name: Contact
-    link: /contact
+#  - name: Experience
+#    link: /experience
+#  - name: Certifications
+#    link: /certifications
+#  - name: Projects
+#    link: /projects
+#  - name: Contact
+#    link: /contact
