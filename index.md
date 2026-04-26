@@ -48,14 +48,14 @@ title: Home
 <hr class="home-divider">
 
 <span class="section-label">Tools & Software</span>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 2rem;">
-  <span style="font-size: 0.85rem; color: var(--text);">OnShape</span>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 2.5rem;">
+  <span style="font-size: 1rem; color: var(--text);">OnShape</span>
   <span class="tag-dot">·</span>
-  <span style="font-size: 0.85rem; color: var(--text);">Isaac Lab</span>
+  <span style="font-size: 1rem; color: var(--text);">Isaac Lab</span>
   <span class="tag-dot">·</span>
-  <span style="font-size: 0.85rem; color: var(--text);">FEA</span>
+  <span style="font-size: 1rem; color: var(--text);">FEA</span>
   <span class="tag-dot">·</span>
-  <span style="font-size: 0.85rem; color: var(--text);">Python</span>
+  <span style="font-size: 1rem; color: var(--text);">Python</span>
   <span class="tag-dot">·</span>
-  <span style="font-size: 0.85rem; color: var(--text);">Arduino</span>
+  <span style="font-size: 1rem; color: var(--text);">Arduino</span>
 </div>
