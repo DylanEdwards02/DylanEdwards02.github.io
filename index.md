@@ -51,14 +51,14 @@ title: Home
 <hr class="home-divider">
 
 <span class="section-label">Tools & Software</span>
-<div class="tag-list" style="margin-bottom: 2rem; justify-content: space-between; align-items: center;">
-  <span class="tag">OnShape</span>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 2rem;">
+  <span style="font-size: 0.85rem; color: var(--text-3);">OnShape</span>
   <span class="tag-dot">·</span>
-  <span class="tag">Isaac Lab</span>
+  <span style="font-size: 0.85rem; color: var(--text-3);">Isaac Lab</span>
   <span class="tag-dot">·</span>
-  <span class="tag">FEA</span>
+  <span style="font-size: 0.85rem; color: var(--text-3);">FEA</span>
   <span class="tag-dot">·</span>
-  <span class="tag">Python</span>
+  <span style="font-size: 0.85rem; color: var(--text-3);">Python</span>
   <span class="tag-dot">·</span>
-  <span class="tag">Arduino</span>
+  <span style="font-size: 0.85rem; color: var(--text-3);">Arduino</span>
 </div>
