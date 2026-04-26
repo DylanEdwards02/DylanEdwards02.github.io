@@ -11,7 +11,7 @@ title: Home
     <p class="hero-tagline">
       Mechanical Engineer &mdash; <strong>Robotics · Hardware · Systems</strong>
     </p>
-   <p style="font-size: 0.82rem; color: var(--text-3); margin-bottom: 1.25rem;">B.S. Systems Engineering & Design · University of Illinois Urbana-Champaign · 2025</p>
+    <p style="font-size: 0.82rem; color: var(--text-3); margin-bottom: 1.25rem;">B.S. Systems Engineering & Design · University of Illinois Urbana-Champaign · 2025</p>
     <p class="hero-bio">
       I design and build physical systems at the intersection of mechanical engineering and intelligent control &mdash; currently researching robotic hands capable of human-like manipulation at UIUC.
     </p>
@@ -21,9 +21,11 @@ title: Home
     </div>
   </div>
 </section>
+
 <hr class="home-divider">
-<span class="section-label">Areas of focus</span>
-<div class="highlights-grid" style="grid-template-columns: repeat(2, 1fr);">
+
+<span class="section-label">Disciplines</span>
+<div class="highlights-grid">
   <div class="highlight-card">
     <span class="hl-label">Robotics</span>
     <h3>Dexterous Manipulation</h3>
@@ -44,4 +46,19 @@ title: Home
     <h3>Applied Research</h3>
     <p>University research translating mechanical concepts into working prototypes.</p>
   </div>
+</div>
+
+<hr class="home-divider">
+
+<span class="section-label">Tools & Software</span>
+<div class="tools-strip">
+  <span class="tool-pill">OnShape</span>
+  <span class="tool-pill">MATLAB</span>
+  <span class="tool-pill">FEA</span>
+  <span class="tool-pill">Python</span>
+  <span class="tool-pill">C / C++</span>
+  <span class="tool-pill">Arduino</span>
+  <span class="tool-pill">Fusion 360</span>
+  <span class="tool-pill">KiCad</span>
+  <span class="tool-pill">Git</span>
 </div>
