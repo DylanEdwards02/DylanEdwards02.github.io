@@ -49,13 +49,13 @@ title: Home
 
 <span class="section-label">Tools & Software</span>
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 2.5rem;">
-  <span style="font-size: 1rem; color: var(--text);">OnShape<strong></span>
+  <span style="font-size: 1rem; color: var(--text);"><strong>OnShape</strong></span>
   <span class="tag-dot">·</span>
-  <span style="font-size: 1rem; color: var(--text);">Isaac Lab<strong></span>
+  <span style="font-size: 1rem; color: var(--text);"><strong>Isaac Lab</strong></span>
   <span class="tag-dot">·</span>
-  <span style="font-size: 1rem; color: var(--text);">FEA<strong></span>
+  <span style="font-size: 1rem; color: var(--text);"><strong>FEA</strong></span>
   <span class="tag-dot">·</span>
-  <span style="font-size: 1rem; color: var(--text);">Python<strong></span>
+  <span style="font-size: 1rem; color: var(--text);"><strong>Python</strong></span>
   <span class="tag-dot">·</span>
-  <span style="font-size: 1rem; color: var(--text);">Arduino<strong></span>
+  <span style="font-size: 1rem; color: var(--text);"><strong>Arduino</strong></span>
 </div>
