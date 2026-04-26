@@ -4,6 +4,7 @@ title: Home
 ---
 <section class="hero">
   <div class="hero-avatar">
+    <div class="hero-avatar" style="padding-top: 0.2rem;">
     <img src="/assets/img/profile.jpg" alt="Dylan Edwards" style="width: 160px; height: 160px;">
   </div>
   <div class="hero-content">
