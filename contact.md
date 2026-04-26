@@ -1,35 +1,30 @@
 ---
-layout: page
+layout: default
 title: Contact
-permalink: /contact/
 ---
-
-<div class="contact-wrap">
-  <div class="contact-left">
-    <h2 class="big-text">Let's build<br/>something.</h2>
-    <p>Open to full-time roles in robotics, mechatronics, and hardware engineering. Feel free to reach out.</p>
-  </div>
-  <div class="contact-links">
-    <a href="mailto:{{ site.email }}" class="contact-link">
-      <div>
-        <span class="contact-link-label">Email</span>
-        <span class="contact-link-value">{{ site.email }}</span>
-      </div>
-      <span class="contact-arrow">↗</span>
-    </a>
-    <a href="https://linkedin.com/in/{{ site.linkedin }}" target="_blank" class="contact-link">
-      <div>
-        <span class="contact-link-label">LinkedIn</span>
-        <span class="contact-link-value">linkedin.com/in/{{ site.linkedin }}</span>
-      </div>
-      <span class="contact-arrow">↗</span>
-    </a>
-    <a href="https://github.com/{{ site.github }}" target="_blank" class="contact-link">
-      <div>
-        <span class="contact-link-label">GitHub</span>
-        <span class="contact-link-value">github.com/{{ site.github }}</span>
-      </div>
-      <span class="contact-arrow">↗</span>
-    </a>
+<div class="page-header">
+  <h1>Contact</h1>
+  <p class="subtitle">Open to new opportunities and conversations</p>
+</div>
+<div class="contact-layout">
+  <div class="contact-sidebar">
+    <span class="section-label">Get in touch</span>
+    <div class="contact-item">
+      <i class="fas fa-map-marker-alt"></i>
+      Champaign, Illinois
+    </div>
+    <div class="contact-item">
+      <i class="fas fa-envelope"></i>
+      <a href="mailto:Dylanme2@illinois.edu">Dylanme2@illinois.edu</a>
+    </div>
+    <span class="section-label" style="margin-top: 1.5rem;">Elsewhere</span>
+    <div class="social-links">
+      <a class="social-link" href="https://github.com/DylanEdwards02" target="_blank" title="GitHub">
+        <i class="fab fa-github"></i>
+      </a>
+      <a class="social-link" href="https://linkedin.com/in/dylanme" target="_blank" title="LinkedIn">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </div>
   </div>
 </div>
