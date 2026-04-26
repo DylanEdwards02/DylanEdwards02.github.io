@@ -5,18 +5,18 @@
 
 /* ── Custom Properties ─────────────────────────────────────── */
 :root {
-  --bg:          #f8f6f2;
-  --bg-2:        #f0ece4;
-  --bg-3:        #e8e2d8;
-  --border:      #d8d0c4;
-  --border-2:    #c0b8ac;
-  --text:        #2d2a2e;
-  --text-2:      #4a4650;
-  --text-3:      #7a7580;
-  --accent:      #4a7fb5;
-  --accent-2:    #3a6fa5;
-  --green:       #2a9f7f;
-  --yellow:      #e6c37a;
+  --bg:          #f5f5f5;
+  --bg-2:        #ebebeb;
+  --bg-3:        #e0e0e0;
+  --border:      #cdcdcd;
+  --border-2:    #bbbbbb;
+  --text:        #242526;
+  --text-2:      #3e4250;
+  --text-3:      #676b79;
+  --accent:      #45a9f9;
+  --accent-2:    #6fc1ff;
+  --green:       #0aab8f;
+  --yellow:      #ffb86c;
   --font-mono:   'JetBrains Mono', 'Fira Code', 'Cascadia Code', monospace;
   --font-sans:   'DM Sans', system-ui, -apple-system, sans-serif;
   --radius:      8px;
