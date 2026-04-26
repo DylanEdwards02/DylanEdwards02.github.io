@@ -233,6 +233,11 @@ main {
   color: var(--accent);
   border: 1px solid rgba(74, 127, 181, 0.2);
 }
+.tag-dot {
+  color: var(--text-3);
+  font-size: 1.4rem;
+  line-height: 1;
+}
 
 /* ════════════════════════════════════════════════════════════
    HOME PAGE
