@@ -9,7 +9,7 @@ title: Home
   <div class="hero-content">
     <h1 class="hero-name">Dylan Edwards</h1>
     <p class="hero-tagline">
-      Mechanical Engineer &mdash; <strong>Robotics · Hardware · Systems</strong>
+      I'm a <strong style="color: var(--accent);">Mechanical Engineer</strong> focused on robotics and hardware systems.
     </p>
     <p style="font-size: 0.82rem; color: var(--text-3); margin-bottom: 1.25rem;">B.S. Systems Engineering & Design · University of Illinois Urbana-Champaign · 2025</p>
     <p class="hero-bio">
