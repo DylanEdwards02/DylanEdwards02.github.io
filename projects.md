@@ -7,10 +7,9 @@ permalink: /projects/
 <div class="cards-grid reveal">
   <div class="card">
     <p class="card-num">01 — Project</p>
-    <h3 class="card-title">Vex Robotics Tipping Point</h3>
+    <h3 class="card-title">Vex Robotics - Tipping Point</h3>
     <p class="card-desc">
-      Describe your project here — what you built, what tools you used, and what problem it solved.
-      Edit <code>projects.md</code> to fill this in.
+      Led the design of a compact VEXU Tipping Point robot constrained to a 15" cube, incorporating a mobile goal intake and ring indexer within a minimal footprint using custom FDM-printed and Lexan components. 
     </p>
     <div class="tags">
       <span class="tag">Fusion360</span>
@@ -21,9 +20,9 @@ permalink: /projects/
 
   <div class="card">
     <p class="card-num">02 — Project</p>
-    <h3 class="card-title">Vex Robotics Spin Up</h3>
+    <h3 class="card-title">Vex Robotics - Spin Up</h3>
     <p class="card-desc">
-      Describe another project here. Think capstone, design courses, or personal builds.
+      Led the design of a VEXU Spin Up robot built with 90% custom components, including custom-machined wheels, molded intake rollers, FDM-printed parts, and lexan components. The robot utilized a flywheel launcher and disc indexer for efficient goal scoring.
     </p>
     <div class="tags">
       <span class="tag">OnShape</span>
@@ -36,7 +35,7 @@ permalink: /projects/
     <p class="card-num">03 — Project</p>
     <h3 class="card-title">Thermal Eye</h3>
     <p class="card-desc">
-      Add a third project here — hardware, software, or anything you're proud of.
+      Designed a clip-on thermal imager for NFPA-compliant firefighter helmets that pinpoints hot zones, enabling hands-free heat detection without modification to existing safety equipment.
     </p>
     <div class="tags">
       <span class="tag">Tolerancing</span>
@@ -48,7 +47,7 @@ permalink: /projects/
     <p class="card-num">04 — Project</p>
     <h3 class="card-title">In-Ear Activity Monitoring</h3>
     <p class="card-desc">
-      Add a third project here — hardware, software, or anything you're proud of.
+      Developed a proof-of-concept in-ear activity monitoring system using the built-in IMU of Apple AirPods, focusing on a user-friendly interface and the classification of 2-3 distinct exercises for phone-free step tracking.
     </p>
     <div class="tags">
       <span class="tag">Embedded Systems</span>
@@ -60,7 +59,7 @@ permalink: /projects/
     <p class="card-num">05 — Project</p>
     <h3 class="card-title">Pneumatic Testing Apparatus</h3>
     <p class="card-desc">
-      Add a third project here — hardware, software, or anything you're proud of.
+      Developed a modular PLC program for an automated pneumatic component testing apparatus that digitized and implemented the company's existing testing procedures, integrating pressure and flow sensors for component validation.
     </p>
     <div class="tags">
       <span class="tag">Automation</span>
@@ -70,7 +69,7 @@ permalink: /projects/
   </div>
   <div class="card">
     <p class="card-num">06 — Project</p>
-    <h3 class="card-title">SCD Redesign</h3>
+    <h3 class="card-title">SCD Table Redesign</h3>
     <p class="card-desc">
       Add a third project here — hardware, software, or anything you're proud of.
     </p>
