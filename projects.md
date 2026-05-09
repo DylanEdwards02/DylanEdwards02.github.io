@@ -63,8 +63,8 @@ permalink: /projects/
     </p>
     <div class="tags">
       <span class="tag">Automation</span>
-      <span class="tag">PLC Programming</span>
       <span class="tag">System Documentation</span>
+      <span class="tag">Technical Communication</span>
     </div>
   </div>
   <div class="card">
@@ -74,9 +74,9 @@ permalink: /projects/
       Led the redesign of tables for a UIUC design space, applying human-centered design principles and lean manufacturing techniques to produce a scalable, user-focused solution for the environment.
     </p>
     <div class="tags">
-      <span class="tag">Automation</span>
-      <span class="tag">PLC Programming</span>
-      <span class="tag">System Documentation</span>
+      <span class="tag">Human-Centered Design</span>
+      <span class="tag">Lean Manufacturing</span>
+      <span class="tag">Stakeholder Presentations</span>
     </div>
   </div>
   <div class="card">
