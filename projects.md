@@ -16,8 +16,8 @@ permalink: /projects/
         <span class="tag">CAD</span>
         <span class="tag">Fabrication</span>
       </div>
-      <div class="card-divider"></div>
     </div>
+    <div class="card-divider"></div>
   </div>
 
   <div class="card">
@@ -31,8 +31,8 @@ permalink: /projects/
         <span class="tag">Silicone Molding</span>
         <span class="tag">C++</span>
       </div>
-      <div class="card-divider"></div>
     </div>
+    <div class="card-divider"></div>
   </div>
 
   <div class="card">
@@ -46,8 +46,8 @@ permalink: /projects/
         <span class="tag">FDM Printing</span>
         <span class="tag">Reverse Engineering</span>
       </div>
-      <div class="card-divider"></div>
     </div>
+    <div class="card-divider"></div>
   </div>
 
   <div class="card">
@@ -61,8 +61,8 @@ permalink: /projects/
         <span class="tag">Swift</span>
         <span class="tag">Figma</span>
       </div>
-      <div class="card-divider"></div>
     </div>
+    <div class="card-divider"></div>
   </div>
 
   <div class="card">
@@ -76,8 +76,8 @@ permalink: /projects/
         <span class="tag">PLC Programming</span>
         <span class="tag">Technical Communication</span>
       </div>
-      <div class="card-divider"></div>
     </div>
+    <div class="card-divider"></div>
   </div>
 
   <div class="card">
@@ -91,8 +91,8 @@ permalink: /projects/
         <span class="tag">Lean Manufacturing</span>
         <span class="tag">Stakeholder Presentations</span>
       </div>
-      <div class="card-divider"></div>
     </div>
+    <div class="card-divider"></div>
   </div>
 
   <div class="card">
@@ -106,8 +106,8 @@ permalink: /projects/
         <span class="tag">Control Systems</span>
         <span class="tag">Soldering</span>
       </div>
-      <div class="card-divider"></div>
     </div>
+    <div class="card-divider"></div>
   </div>
 
 </div>
