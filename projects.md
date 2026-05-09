@@ -71,7 +71,7 @@ permalink: /projects/
     <p class="card-num">06 — Project</p>
     <h3 class="card-title">SCD Table Redesign</h3>
     <p class="card-desc">
-      Add a third project here — hardware, software, or anything you're proud of.
+      Led the redesign of tables for a UIUC design space, applying human-centered design principles and lean manufacturing techniques to produce a scalable, user-focused solution for the environment.
     </p>
     <div class="tags">
       <span class="tag">Automation</span>
@@ -83,7 +83,7 @@ permalink: /projects/
     <p class="card-num">07 — Project</p>
     <h3 class="card-title">Robotic Arm</h3>
     <p class="card-desc">
-      Add a third project here — hardware, software, or anything you're proud of.
+      Designed and hardware-tested a 3-DOF robotic arm simulation capable of picking up and transporting a coffee mug, with basic work toward joint control and obstacle avoidance path planning.
     </p>
     <div class="tags">
       <span class="tag">Fusion360</span>
