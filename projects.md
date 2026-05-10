@@ -24,7 +24,7 @@ permalink: /projects/
 
   <div class="card">
     <div class="card-img-wrap">
-      <img class="card-img" src="/assets/img/spin-up.png" alt="Spin Up Robot" />
+      <img class="card-img" src="/assets/img/su-bot.png" alt="Spin Up Robot" />
     </div>
     <div class="card-body">
       <p class="card-num">02 — Project</p>
