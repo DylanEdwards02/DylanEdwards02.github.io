@@ -23,7 +23,9 @@ permalink: /projects/
   </div>
 
   <div class="card">
-    <img class="card-img" src="/assets/images/spin-up.jpg" alt="Spin Up Robot" />
+    <div class="card-img-wrap">
+      <img class="card-img" src="/assets/img/spin-up.png" alt="Spin Up Robot" />
+    </div>
     <div class="card-body">
       <p class="card-num">02 — Project</p>
       <h3 class="card-title">Vex Robotics - Spin Up</h3>
@@ -38,7 +40,9 @@ permalink: /projects/
   </div>
 
   <div class="card">
-    <img class="card-img" src="/assets/images/thermal-eye.jpg" alt="Thermal Eye" />
+    <div class="card-img-wrap">
+      <img class="card-img" src="/assets/img/thermal-eye.png" alt="Thermal Eye" />
+    </div>
     <div class="card-body">
       <p class="card-num">03 — Project</p>
       <h3 class="card-title">Thermal Eye</h3>
@@ -53,7 +57,9 @@ permalink: /projects/
   </div>
 
   <div class="card">
-    <img class="card-img" src="/assets/images/in-ear.jpg" alt="In-Ear Activity Monitoring" />
+    <div class="card-img-wrap">
+      <img class="card-img" src="/assets/img/in-ear.png" alt="In-Ear Activity Monitoring" />
+    </div>
     <div class="card-body">
       <p class="card-num">04 — Project</p>
       <h3 class="card-title">In-Ear Activity Monitoring</h3>
@@ -68,7 +74,9 @@ permalink: /projects/
   </div>
 
   <div class="card">
-    <img class="card-img" src="/assets/images/pneumatic.jpg" alt="Pneumatic Testing Apparatus" />
+    <div class="card-img-wrap">
+      <img class="card-img" src="/assets/img/pneumatic.png" alt="Pneumatic Testing Apparatus" />
+    </div>
     <div class="card-body">
       <p class="card-num">05 — Project</p>
       <h3 class="card-title">Pneumatic Testing Apparatus</h3>
@@ -83,7 +91,9 @@ permalink: /projects/
   </div>
 
   <div class="card">
-    <img class="card-img" src="/assets/images/table.jpg" alt="SCD Table Redesign" />
+    <div class="card-img-wrap">
+      <img class="card-img" src="/assets/img/table.png" alt="SCD Table Redesign" />
+    </div>
     <div class="card-body">
       <p class="card-num">06 — Project</p>
       <h3 class="card-title">SCD Table Redesign</h3>
@@ -98,7 +108,9 @@ permalink: /projects/
   </div>
 
   <div class="card">
-    <img class="card-img" src="/assets/images/robotic-arm.jpg" alt="Robotic Arm" />
+    <div class="card-img-wrap">
+      <img class="card-img" src="/assets/img/robotic-arm.png" alt="Robotic Arm" />
+    </div>
     <div class="card-body">
       <p class="card-num">07 — Project</p>
       <h3 class="card-title">Robotic Arm</h3>
