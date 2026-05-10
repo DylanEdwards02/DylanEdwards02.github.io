@@ -6,7 +6,7 @@ permalink: /projects/
 <div class="cards-grid reveal">
 
   <div class="card">
-    <img class="card-img" src="assets/img/tp bot2.png" alt="Tipping Point Robot" />
+    <img class="card-img" src="assets/img/tp_bot.png" alt="Tipping Point Robot" />
     <div class="card-body">
       <p class="card-num">01 — Project</p>
       <h3 class="card-title">Vex Robotics - Tipping Point</h3>
