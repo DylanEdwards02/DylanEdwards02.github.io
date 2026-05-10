@@ -608,7 +608,7 @@ main {
 
 .card-img {
   width: 50%;
-  height: 250px;
+  height: 500 px;
   object-fit: cover;
   display: block;
   margin: 1.5rem auto 0 auto;
