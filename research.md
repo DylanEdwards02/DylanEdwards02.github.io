@@ -12,12 +12,12 @@ permalink: /research/
       <p class="card-num">RoboTouch Lab</p>
       <h3 class="card-title">Dexterous Hand</h3>
       <p class="card-desc">Designed a human-scale dexterous robotic hand with direct-drive worm gear joints to replicate human grasp capabilities.</p>
-      <p>
+      <ul class="card-desc">
         <li>Modeled hand kinematics in simulation to evaluate manipulability and reachability</li>
         <li>Developed testing framework for joint accuracy, grasp force, and repeatability</li>
         <li>Matched human hand geometry to enable natural object interaction</li>
         <li>Prepared a research paper on joint design and performance evaluation</li>
-      </p>
+      </ul>
       <div class="tags">
         <span class="tag">Robotics</span>
         <span class="tag">Custom PCB Design</span>
