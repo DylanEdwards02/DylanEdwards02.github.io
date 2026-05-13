@@ -6,7 +6,7 @@ permalink: /research/
 <div class="cards-grid reveal">
   <div class="card">
     <div class="card-img-wrap">
-      <img class="card-img" src="/assets/img/robotic-hand.png" alt="Dexterous Hand" />
+      <img class="card-img" src="/assets/img/robotic-hand.PNG" alt="Dexterous Hand" />
     </div>
     <div class="img-row">
       <img class="img-small" src="/assets/img/small1.png" alt="Small Image 1" />
@@ -38,8 +38,8 @@ permalink: /research/
       <img class="card-img" src="/assets/img/electronics-box.png" alt="Electronics Box" />
     </div>
     <div class="img-row">
-      <img class="img-small" src="/assets/img/small1.png" alt="Small Image 1" />
-      <img class="img-small" src="/assets/img/small2.png" alt="Small Image 2" />
+      <img class="img-small" src="/assets/img/electronics-box2.png" alt="Small Image 1" />
+      <img class="img-small" src="/assets/img/electronics-box3.png" alt="Small Image 2" />
     </div>
     <div class="card-body">
       <p class="card-num">CERL Lab</p>
