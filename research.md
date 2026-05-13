@@ -35,12 +35,12 @@ permalink: /research/
       <p class="card-num">CERL Lab</p>
       <h3 class="card-title">Electronics Box</h3>
       <p class="card-desc">Designed a centralized electronics housing to integrate and coordinate multiple modules for a heavy-lift system.</p>
-      <p>
+      <ul class="card-desc">
         <li>Custom PCBs, cabling, and waterproof housing designed for field deployment</li>
         <li>External plug panels for clean, accessible module connections</li>
         <li>Adjustable belt tensioning module adaptable across applications</li>
         <li>Component diagrams documenting internal and external system connections</li>
-    </p>
+      </ul>
       <div class="tags">
         <span class="tag">SolidWorks</span>
         <span class="tag">Electronics Planning</span>
