@@ -637,9 +637,15 @@ main {
   gap: 0;
 }
 
+.card-img-row {
+  display: flex;
+  flex-direction: row; /* make sure this is row not column */
+  gap: 0;
+}
+
 .card-img-small {
   width: 50%;
-  height: 200px;
+  height: 150px;
   object-fit: cover;
   object-position: center;
   display: block;
