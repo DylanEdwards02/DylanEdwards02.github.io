@@ -626,6 +626,25 @@ main {
   transform: scale(1.05);
 }
 
+.card-img-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.card-img-row {
+  display: flex;
+  gap: 0;
+}
+
+.card-img-small {
+  width: 50%;
+  height: 200px;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+}
+
 .card-body {
   padding: 1.25rem 1.4rem;
 }
