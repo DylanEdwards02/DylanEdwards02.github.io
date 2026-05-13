@@ -44,9 +44,9 @@ permalink: /projects/
       <h3 class="card-title">Thermal Eye</h3>
       <p class="card-desc">Designed a clip-on thermal imager for NFPA-compliant firefighter helmets that pinpoints hot zones, enabling hands-free heat detection without modification to existing safety equipment.</p>
       <div class="tags">
+        <span class="tag">Reverse Engineering</span>
         <span class="tag">Tolerancing</span>
         <span class="tag">FDM Printing</span>
-        <span class="tag">Reverse Engineering</span>
       </div>
     </div>
     <div class="card-divider"></div>
