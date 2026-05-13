@@ -643,15 +643,15 @@ main {
 
 .img-small {
   width: 50%;
-  height: 150px;
+  height: 200px;
   object-fit: cover;
-  object-position: center;
+  object-position: center center;
   display: block;
+  transition: transform 0.3s ease;
 }
 
 .img-small:hover {
   transform: scale(1.05);
-  transition: transform 0.3s ease;
 }
 
 .card-body {
