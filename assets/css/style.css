@@ -594,25 +594,21 @@ main {
   box-shadow: none;
   width: 100%;
 }
-
 .card:hover {
   border: none;
   box-shadow: none;
 }
-
 .cards-grid {
   display: flex;
   flex-direction: column;
   gap: 1.25rem;
 }
-
 .card-img-wrap {
   width: 75%;
   margin: 1.5rem auto 0 auto;
   border-radius: 8px;
   overflow: hidden;
 }
-
 .card-img {
   width: 100%;
   height: 400px;
@@ -621,68 +617,54 @@ main {
   display: block;
   transition: transform 0.3s ease;
 }
-
 .card-img:hover {
   transform: scale(1.05);
 }
-
 .card-img-grid {
   display: flex;
   flex-direction: column;
   gap: 0;
   width: 100%;
-  overflow: hidden;
 }
-
-.card-img-row {
-  display: flex;
-  gap: 0;
-}
-
 .img-row {
   display: flex;
   flex-direction: row;
   width: 100%;
+  gap: 0;
 }
-
 .img-small {
   width: 50%;
   height: 150px;
   object-fit: cover;
+  object-position: center;
   display: block;
 }
-
 .card-body {
   padding: 1.25rem 1.4rem;
 }
-
 .card-num {
   font-size: 0.75rem;
   color: var(--text-3);
   font-family: var(--font-sans);
   margin-bottom: 0.25rem;
 }
-
 .card-title {
   font-size: 1rem;
   font-weight: 600;
   color: var(--text);
   margin-bottom: 0.5rem;
 }
-
 .card-desc {
   font-size: 0.875rem;
   color: var(--text-2);
   margin-bottom: 0.75rem;
 }
-
 .card-divider {
   width: 50%;
   height: 1px;
   background: var(--border);
   margin: 2rem auto 0 auto;
 }
-
 .tags {
   display: flex;
   flex-wrap: wrap;
