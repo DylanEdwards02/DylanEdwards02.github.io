@@ -7,7 +7,7 @@ permalink: /research/
 <div class="cards-grid reveal">
   <div class="card">
     <p class="card-num">01 — Research</p>
-    <h3 class="card-title">Robotic Hand for Human-Like Manipulation</h3>
+    <h3 class="card-title">Dexterous Hand</h3>
     <p class="card-desc">
       Developing a multi-fingered robotic hand capable of dexterous, human-like manipulation.
       Research focuses on mechanical design, actuation strategies, and control systems that
@@ -23,7 +23,7 @@ permalink: /research/
 
   <div class="card card-empty">
     <p class="card-num">02 — Research</p>
-    <h3 class="card-title">Add Your Next Project</h3>
+    <h3 class="card-title">Electronics Box</h3>
     <p class="card-desc">
       Edit <code>research.md</code> to add more research projects here.
     </p>
