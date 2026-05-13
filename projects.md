@@ -75,7 +75,7 @@ permalink: /projects/
     </div>
     <div class="card-body">
       <h3 class="card-title">Pneumatic Testing Apparatus</h3>
-      <p class="card-desc">Developed a modular PLC program for an automated pneumatic component testing apparatus that digitized and implemented the company's existing testing procedures, integrating pressure and flow sensors for component validation.</p>
+      <p class="card-desc">Developed a modular PLC program for an automated pneumatic component testing apparatus that digitized the company's existing testing procedures, integrating pressure and flow sensors for component validation.</p>
       <div class="tags">
         <span class="tag">Automation</span>
         <span class="tag">PLC Programming</span>
