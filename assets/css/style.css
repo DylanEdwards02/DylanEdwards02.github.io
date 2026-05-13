@@ -630,6 +630,8 @@ main {
   display: flex;
   flex-direction: column;
   gap: 0;
+  width: 100%;
+  overflow: hidden;
 }
 
 .card-img-row {
@@ -637,17 +639,16 @@ main {
   gap: 0;
 }
 
-.card-img-row {
+.img-row {
   display: flex;
-  flex-direction: row; /* make sure this is row not column */
-  gap: 0;
+  flex-direction: row;
+  width: 100%;
 }
 
-.card-img-small {
+.img-small {
   width: 50%;
   height: 150px;
   object-fit: cover;
-  object-position: center;
   display: block;
 }
 
