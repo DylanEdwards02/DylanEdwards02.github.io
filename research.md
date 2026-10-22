@@ -7,9 +7,9 @@ permalink: /research/
   <div class="card">
     <div class="card-img-wrap">
       <div class="card-img-grid">
-        <img class="card-img" src="/assets/img/robotic-hand.PNG" alt="Dexterous Hand" />
+        <img class="card-img" src="/assets/img/hand_clean.PNG" alt="Dexterous Hand" />
         <div class="img-row">
-          <img class="img-small" src="/assets/img/robotic-hand2.png" alt="Small Image 1" />
+          <img class="img-small" src="/assets/img/hand_clean_2.png" alt="Small Image 1" />
           <img class="img-small" src="/assets/img/robotic-hand3.png" alt="Small Image 2" />
         </div>
       </div>
