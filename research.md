@@ -19,10 +19,10 @@ permalink: /research/
       <h3 class="card-title">Dexterous Hand</h3>
       <p class="card-desc">Designed a human-scale dexterous robotic hand with direct-drive worm gear joints to replicate human grasp capabilities.</p>
       <ul class="card-desc">
-        <li>Modeled hand kinematics in simulation to evaluate manipulability and reachability</li>
-        <li>Developed testing framework for joint accuracy, grasp force, and repeatability</li>
-        <li>Matched human hand geometry to enable natural object interaction</li>
-        <li>Prepared a research paper on joint design and performance evaluation</li>
+      <li>Designed modular worm-gear joint drives, favoring grip strength and non-backdrivable holding over speed</li>
+      <li>Built the custom palm-mounted PCB, firmware, and joint controllers; transferred RL policies from simulation to the hand</li>
+      <li>Modeled kinematics in simulation and built a test framework for joint accuracy, grasp force, and repeatability</li>
+      <li>Research paper in preparation on joint design and performance evaluation</li>
       </ul>
       <div class="tags">
         <span class="tag">Robotics</span>
