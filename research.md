@@ -11,8 +11,8 @@ permalink: /research/
           <source src="/assets/video/hand_demo.mp4" type="video/mp4">
         </video>
         <div class="img-row">
-          <img class="img-small" src="/assets/img/hand_clean_2.png" alt="Small Image 1" />
-          <img class="img-small" src="/assets/img/hand_clean_3.png" alt="Small Image 2" />
+          <img class="img-small" src="/assets/img/hand_clean.png" alt="Small Image 1" />
+          <img class="img-small" src="/assets/img/hand_clean_2.png" alt="Small Image 2" />
         </div>
       </div>
     </div>
